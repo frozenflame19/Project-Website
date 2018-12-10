@@ -1,0 +1,5 @@
+Noted
+once you install xammp
+go folder name "xampp" then "htdocs" then "xampp" then created a folder of your simple project
+create a database name grand_data then import the database
+create a folder name images and CSS
